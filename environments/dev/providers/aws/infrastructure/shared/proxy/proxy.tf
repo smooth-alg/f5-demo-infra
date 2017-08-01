@@ -35,7 +35,7 @@ variable public_ssh_key_path  {}
 variable ssh_key_name   {}
 variable restricted_src_address { default = "0.0.0.0/0" }
 
-variable admin_username {}
+variable admin_username { default = "custom-admin" }
 
 # APPLICATION
 variable site_ssl_cert    {}

@@ -22,6 +22,7 @@ public_ssh_key_path = "~/.ssh/004-VE-DEMO.pem.pub"
 ssh_key_name = "004-VE-DEMO"
 restricted_src_address = "0.0.0.0/0"
 
+admin_username = "custom-admin"
 
 site_ssl_cert = "../../../../../ssl/website.crt"
 site_ssl_key = "../../../../../ssl/website.key"

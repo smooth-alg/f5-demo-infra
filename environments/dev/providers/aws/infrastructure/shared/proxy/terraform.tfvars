@@ -47,5 +47,8 @@ timezone    = "UTC"
 
 # AUTOSCALE
 deployment_name = "demo"
-throughput = "200Mbps"
 notification_email = "a.applebaum@f5.com"
+
+
+throughput = "25Mbps"
+instance_type = "m4.xlarge"

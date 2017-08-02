@@ -50,5 +50,5 @@ deployment_name = "demo"
 notification_email = "a.applebaum@f5.com"
 
 
-throughput = "200Mbps"
-instance_type = "m4.2xlarge"
+throughput = "25Mbps"
+instance_type = "m4.xlarge"

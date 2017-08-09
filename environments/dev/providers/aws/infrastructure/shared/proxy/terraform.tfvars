@@ -51,5 +51,5 @@ notification_email = "a.applebaum@f5.com"
 
 
 throughput = "25Mbps"
-instance_type = "m4.xlarge"
+instance_type = "m4.2xlarge"
 #test 8
